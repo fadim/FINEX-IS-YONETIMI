@@ -1,0 +1,54 @@
+D:\Users\haadi\Documents\Visual Studio 2010\Projects\FxIsYonetim\Entity\bin\Debug\Entity.dll
+D:\Users\haadi\Documents\Visual Studio 2010\Projects\FxIsYonetim\Entity\bin\Debug\Entity.pdb
+D:\Users\haadi\Documents\Visual Studio 2010\Projects\FxIsYonetim\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\haadi\Documents\Visual Studio 2010\Projects\FxIsYonetim\Entity\obj\Debug\Entity.dll
+D:\Users\haadi\Documents\Visual Studio 2010\Projects\FxIsYonetim\Entity\obj\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim\Entity\bin\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim\Entity\bin\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\haadi\Desktop\FxIsYonetim\Entity\obj\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim\Entity\obj\Debug\Entity.pdb
+M:\FxIsYonetim\Entity\bin\Debug\Entity.dll
+M:\FxIsYonetim\Entity\bin\Debug\Entity.pdb
+M:\FxIsYonetim\Entity\obj\Debug\ResolveAssemblyReference.cache
+M:\FxIsYonetim\Entity\obj\Debug\Entity.dll
+M:\FxIsYonetim\Entity\obj\Debug\Entity.pdb
+C:\Users\Genetic\Desktop\FxIsYonetim-son\Entity\bin\Debug\Entity.dll
+C:\Users\Genetic\Desktop\FxIsYonetim-son\Entity\bin\Debug\Entity.pdb
+C:\Users\Genetic\Desktop\FxIsYonetim-son\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Genetic\Desktop\FxIsYonetim-son\Entity\obj\Debug\Entity.dll
+C:\Users\Genetic\Desktop\FxIsYonetim-son\Entity\obj\Debug\Entity.pdb
+G:\FxIsYonetim-son-2\Entity\bin\Debug\Entity.dll
+G:\FxIsYonetim-son-2\Entity\bin\Debug\Entity.pdb
+G:\FxIsYonetim-son-2\Entity\obj\Debug\ResolveAssemblyReference.cache
+G:\FxIsYonetim-son-2\Entity\obj\Debug\Entity.dll
+G:\FxIsYonetim-son-2\Entity\obj\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-3\Entity\bin\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-3\Entity\bin\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-3\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\haadi\Desktop\FxIsYonetim-son-3\Entity\obj\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-3\Entity\obj\Debug\Entity.pdb
+C:\Users\Genetic\Desktop\FxIsYonetim-son-4\Entity\bin\Debug\Entity.dll
+C:\Users\Genetic\Desktop\FxIsYonetim-son-4\Entity\bin\Debug\Entity.pdb
+C:\Users\Genetic\Desktop\FxIsYonetim-son-4\Entity\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Genetic\Desktop\FxIsYonetim-son-4\Entity\obj\Debug\Entity.dll
+C:\Users\Genetic\Desktop\FxIsYonetim-son-4\Entity\obj\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-5\Entity\bin\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-5\Entity\bin\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-5\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\haadi\Desktop\FxIsYonetim-son-5\Entity\obj\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-5\Entity\obj\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-8\Entity\bin\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-8\Entity\bin\Debug\Entity.pdb
+D:\Users\haadi\Desktop\FxIsYonetim-son-8\Entity\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\haadi\Desktop\FxIsYonetim-son-8\Entity\obj\Debug\Entity.dll
+D:\Users\haadi\Desktop\FxIsYonetim-son-8\Entity\obj\Debug\Entity.pdb
+I:\FxIsYonetim-son-8\Entity\bin\Debug\Entity.dll
+I:\FxIsYonetim-son-8\Entity\bin\Debug\Entity.pdb
+I:\FxIsYonetim-son-8\Entity\obj\Debug\ResolveAssemblyReference.cache
+I:\FxIsYonetim-son-8\Entity\obj\Debug\Entity.dll
+I:\FxIsYonetim-son-8\Entity\obj\Debug\Entity.pdb
+C:\Users\Genetic\Documents\GitHub\FxIsYonetim\Entity\bin\Debug\Entity.dll
+C:\Users\Genetic\Documents\GitHub\FxIsYonetim\Entity\bin\Debug\Entity.pdb
+C:\Users\Genetic\Documents\GitHub\FxIsYonetim\Entity\obj\Debug\Entity.dll
+C:\Users\Genetic\Documents\GitHub\FxIsYonetim\Entity\obj\Debug\Entity.pdb

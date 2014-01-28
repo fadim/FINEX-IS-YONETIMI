@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B0233655-EA71-4194-9935-427483CF7F0F}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>FxIsYonetim</RootNamespace>
+    <AssemblyName>FxIsYonetim</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <UseIISExpress>false</UseIISExpress>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=3.5.40412.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Default.aspx" />
+    <Content Include="IsDuzenle.aspx" />
+    <Content Include="IsListesi.aspx" />
+    <Content Include="IsTuruWebSitesi.aspx" />
+    <Content Include="MusteriDuzenle.aspx" />
+    <Content Include="MusteriListesi.aspx" />
+    <Content Include="PersonelDuzenle.aspx" />
+    <Content Include="YeniIs.aspx" />
+    <Content Include="YeniMusteri.aspx" />
+    <Content Include="YeniPersonel.aspx" />
+    <Content Include="PersonelListesi.aspx" />
+    <Content Include="Web.config" />
+    <Content Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+    <Content Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Fxls.Master.cs">
+      <DependentUpon>Fxls.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Fxls.Master.designer.cs">
+      <DependentUpon>Fxls.Master</DependentUpon>
+    </Compile>
+    <Compile Include="IsDuzenle.aspx.cs">
+      <DependentUpon>IsDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IsDuzenle.aspx.designer.cs">
+      <DependentUpon>IsDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IsListesi.aspx.cs">
+      <DependentUpon>IsListesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IsListesi.aspx.designer.cs">
+      <DependentUpon>IsListesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="IsTuruWebSitesi.aspx.cs">
+      <DependentUpon>IsTuruWebSitesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="IsTuruWebSitesi.aspx.designer.cs">
+      <DependentUpon>IsTuruWebSitesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriDuzenle.aspx.cs">
+      <DependentUpon>MusteriDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MusteriDuzenle.aspx.designer.cs">
+      <DependentUpon>MusteriDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriListesi.aspx.cs">
+      <DependentUpon>MusteriListesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MusteriListesi.aspx.designer.cs">
+      <DependentUpon>MusteriListesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelDuzenle.aspx.cs">
+      <DependentUpon>PersonelDuzenle.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PersonelDuzenle.aspx.designer.cs">
+      <DependentUpon>PersonelDuzenle.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YeniIs.aspx.cs">
+      <DependentUpon>YeniIs.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YeniIs.aspx.designer.cs">
+      <DependentUpon>YeniIs.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YeniMusteri.aspx.cs">
+      <DependentUpon>YeniMusteri.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YeniMusteri.aspx.designer.cs">
+      <DependentUpon>YeniMusteri.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="YeniPersonel.aspx.cs">
+      <DependentUpon>YeniPersonel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="YeniPersonel.aspx.designer.cs">
+      <DependentUpon>YeniPersonel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="PersonelListesi.aspx.cs">
+      <DependentUpon>PersonelListesi.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="PersonelListesi.aspx.designer.cs">
+      <DependentUpon>PersonelListesi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{03D9C9EA-B7F5-4DF0-BE24-CD0E8B74B1FB}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Common\Common.csproj">
+      <Project>{C0FAA2FF-C946-45CC-962E-ADA2F189EE91}</Project>
+      <Name>Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{5388DEE4-DD01-451D-888A-48CF3B6CE064}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{955FB65C-358F-4104-B586-942024F8EE8E}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="Ekler\" />
+    <Folder Include="FirmaLogo\" />
+    <Folder Include="Personeller\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Fxls.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>False</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>1117</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>
+          </IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
